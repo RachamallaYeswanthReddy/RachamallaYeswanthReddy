@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yeswanth Reddy Rachamalla
-- 👀 I’m interested in Data Clouding
+- 👀 I’m interested in Data Clouding and Artificial Intelligence
 - 🌱 I’m currently pursuing Undergraduate in Computer Science and Engineering From Vellore Institute of Technology
 - 📫 How to reach me on linkedin - Yeswanth Reddy Rachamalla
 
