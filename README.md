@@ -4,7 +4,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/YeswanthReddy1?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/yeswanth_07" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="CodeChef" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla/" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/YeswanthReddy1?hr_r=1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/yeswanth_07" target="_blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/yeswanthrachamalla" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="30" width="30" /></a>
+
 </p>
