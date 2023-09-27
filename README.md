@@ -22,3 +22,4 @@ Aspiring Web Developer and Data Scientist
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachamallaYeswanthReddy&show_icons=true&locale=en" alt="Yeswanth Reddy" /></p>
