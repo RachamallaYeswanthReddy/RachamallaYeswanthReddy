@@ -23,13 +23,7 @@ Aspiring Fullstack Developer and Data Scientist
     <!-- Top Languages Widget -->
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&theme=tokyonight" alt="Top Languages">
-    </div>
-
-    <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=RachamallaYeswanthReddy&show_icons=true&locale=en" alt="GitHub Stats">
-    </div>
-
-    <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachamallaYeswanthReddy&" alt="GitHub Streak">
     </div>
 </div>
