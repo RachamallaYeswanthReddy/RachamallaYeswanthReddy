@@ -22,7 +22,8 @@ Aspiring Fullstack Developer and Data Scientist
 <div style="display: flex; justify-content: space-between;">
     <!-- Top Languages Widget -->
     <div style="flex: 1;">
-        <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&theme=tokyonight" alt="Top Languages" style="margin-right: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachamallaYeswanthReddy&" alt="GitHub Streak"></center>
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+        <br>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 </div>
