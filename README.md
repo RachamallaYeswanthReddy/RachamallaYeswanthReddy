@@ -1,5 +1,3 @@
-<div align="center>
-  
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm @Yeswanth Reddy Rachamalla
 =================================================================================================================================================
 
@@ -19,7 +17,10 @@ Aspiring Fullstack Developer and Data Scientist
 <a href="https://www.kaggle.com/yeswanthrachamalla" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/YeswanthReddy1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="50" /></a>
 </p>
-
+  
+<div align="center>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
