@@ -19,11 +19,4 @@ Aspiring Fullstack Developer and Data Scientist
 <a href="https://www.hackerrank.com/YeswanthReddy1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="50" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-    <!-- Top Languages Widget -->
-    <div style="flex: 1;">
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true)](https://git.io/streak-stats)
-        <br>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true)](https://git.io/streak-stats)
