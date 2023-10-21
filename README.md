@@ -10,7 +10,7 @@ Aspiring Fullstack Developer and Data Scientist
 *   🧠  I'm learning Deep Learning and Artificial Intelligence
 *   👀  I’m interested in Full Stack Devolpment and Data Science
 *   🤝  I'm open to collaborating on Intersting Projects
-
+<div style="align:center">
 <h3>Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="60" width="60" /></a>
@@ -21,3 +21,4 @@ Aspiring Fullstack Developer and Data Scientist
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
