@@ -9,7 +9,7 @@ Competitive Coder | Tech Enthusiast
 *   ✉️  You can contact me at [yeswanthrachamalla@gmail.com](mailto:yeswanthrachamalla@gmail.com)
 *   🧠  I'm learning Deep Learning and Artificial Intelligence
 *   👀  I’m interested in Full Stack Devolpment and Data Science
-*   🤝  I'm open to collaborating on Intersting Projects
+*   🤝  I'm open to collaborating on Interesting Projects
 <div style="align:center">
 <h3>Connect with me:</h3>
 <p align="center">
