@@ -4,17 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Competitive Coder | Tech Enthusiast 
 -----------------------------------------
-
-
-<h3 align="Left"> You can find me here : </h3>
-
-<p align="Center">
-    <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/YeswanthReddy1"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-    <a href="https://leetcode.com/YeswanthReddy/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-    <a href="https://www.geeksforgeeks.org/user/yeswanthrachamalla/"><img title="GeeksforGeeks Account" src="https://img.shields.io/badge/GeeksforGeeks-5c5c5c?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-    <a href="mailto:yeswanthrachamalla@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p> 
 *   🌱 I’m currently pursuing Undergraduate in Computer Science and Engineering from Vellore Institute of Technology
 *   🖥️  See my portfolio at [My portfolio](http://yeswanthreddyrachamalla.netlify.app/)
 *   ✉️  You can contact me at [yeswanthrachamalla@gmail.com](mailto:yeswanthrachamalla@gmail.com)
@@ -46,6 +35,15 @@ Competitive Coder | Tech Enthusiast
 </p>
 
 
+<h3 align="Left"> You can find me here : </h3>
+
+<p align="Center">
+    <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/YeswanthReddy1"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+    <a href="https://leetcode.com/YeswanthReddy/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+    <a href="https://www.geeksforgeeks.org/user/yeswanthrachamalla/"><img title="GeeksforGeeks Account" src="https://img.shields.io/badge/GeeksforGeeks-5c5c5c?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+    <a href="mailto:yeswanthrachamalla@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p> 
 
   
 <div align="center">
