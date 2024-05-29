@@ -10,14 +10,42 @@ Competitive Coder | Tech Enthusiast
 *   🧠  I'm learning Deep Learning and Artificial Intelligence
 *   👀  I’m interested in Full Stack Devolpment and Data Science
 *   🤝  I'm open to collaborating on Interesting Projects
-<div style="align:center">
-<h3>Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="60" width="60" /></a>
-<a href="https://leetcode.com/YeswanthReddy/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="60" width="60" /></a>
-<a href="https://www.kaggle.com/yeswanthrachamalla" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/YeswanthReddy1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="50" /></a>
+
+
+<h3 align="center"> Currently working on: </h3>
+
+<p align = "center">
+   <img alt="Springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+   <img alt="Mysql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue"/>
+   <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+   <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+   <img alt="Keras" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+<h3 align="center"> Technical Skills: </h3>
+
+<p align = "center">
+   <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+
+
+You can find me here :
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/YeswanthReddy1"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+    <a href="https://leetcode.com/YeswanthReddy/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+    <a href="https://www.geeksforgeeks.org/user/yeswanthrachamalla/"><img title="GeeksforGeeks Account" src="https://img.shields.io/badge/GeeksforGeeks-5c5c5c?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+    <a href="mailto:yeswanthrachamalla@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
   
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true" alt="GitHub Streak">
