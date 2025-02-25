@@ -47,7 +47,5 @@ Competitive Coder | Tech Enthusiast
 
   
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RachamallaYeswanthReddy&theme=dark&hide_border=true" alt="GitHub Streak">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
