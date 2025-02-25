@@ -7,8 +7,7 @@ Competitive Coder | Tech Enthusiast
 *   🌱 I’m currently pursuing Undergraduate in Computer Science and Engineering from Vellore Institute of Technology
 *   🖥️  See my portfolio at [My portfolio](http://yeswanthreddyrachamalla.netlify.app/)
 *   ✉️  You can contact me at [yeswanthrachamalla@gmail.com](mailto:yeswanthrachamalla@gmail.com)
-*   🧠  I'm learning Deep Learning and Artificial Intelligence
-*   👀  I’m interested in Full Stack Devolpment and Data Science
+*   👀  I’m interested in Data Science and Full Stack Development
 *   🤝  I'm open to collaborating on Interesting Projects
 
 
