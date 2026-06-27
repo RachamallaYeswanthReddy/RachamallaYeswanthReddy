@@ -98,9 +98,6 @@ I'm a Software Engineer passionate about building intelligent AI systems using *
 * 🐅 **Wild vs Domestic Animal Classification**
   Deep learning project using transfer learning models such as ResNet50, VGG16, MobileNetV2, and EfficientNet.
 
-* 🏠 **House Price Prediction**
-  Regression model for predicting housing prices using Decision Tree Regression and feature engineering.
-
 ---
 
 ## 🌐 Connect With Me
