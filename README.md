@@ -1,50 +1,110 @@
+# Hi 👋 I'm Yeswanth Reddy Rachamalla
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm @Yeswanth Reddy Rachamalla
-=================================================================================================================================================
+### AI Engineer | Digital Specialist Engineer @ Infosys | Agentic AI & LangGraph Enthusiast
 
-Competitive Coder | Tech Enthusiast 
------------------------------------------
-*   🌱 I’m currently pursuing Undergraduate in Computer Science and Engineering from Vellore Institute of Technology
-*   🖥️  See my portfolio at [My portfolio](http://yeswanthreddyrachamalla.netlify.app/)
-*   ✉️  You can contact me at [yeswanthrachamalla@gmail.com](mailto:yeswanthrachamalla@gmail.com)
-*   👀  I’m interested in Data Science and Full Stack Development
-*   🤝  I'm open to collaborating on Interesting Projects
+I'm a Software Engineer passionate about building intelligent AI systems using **LLMs**, **LangGraph**, **LangChain**, and **Generative AI**. I enjoy designing multi-agent workflows, AI automation, and enterprise AI applications while continuously exploring emerging AI technologies.
 
+* 💼 Digital Specialist Engineer at **Infosys**
+* 🌱 Currently learning **Agentic AI**, **LangGraph**, **Multi-Agent Systems**, and **MCP**
+* 🤖 Interested in **Generative AI**, **AI Agents**, **LLM Applications**, and **Workflow Automation**
+* 🖥️ Portfolio: https://yeswanthreddyrachamalla.netlify.app/
+* 📫 Email: [yeswanthrachamalla@gmail.com](mailto:yeswanthrachamalla@gmail.com)
+* 🤝 Open to collaborating on AI and Open Source projects
 
-<h3 align="center"> Currently working on: </h3>
+---
 
-<p align = "center">
-   <img alt="Springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-   <img alt="Mysql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue"/>
-   <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-   <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+## 🚀 Currently Working With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-<h3 align="center"> Technical Skills: </h3>
+---
 
-<p align = "center">
-   <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+## 💻 Technical Skills
+
+<p align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+### AI & Machine Learning
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+
+### Web Development
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+### Database & Tools
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
+---
 
-<h3 align="Left"> You can find me here : </h3>
+## 📂 Featured Projects
 
-<p align="Center">
-    <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/YeswanthReddy1"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-    <a href="https://leetcode.com/YeswanthReddy/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-    <a href="https://www.geeksforgeeks.org/user/yeswanthrachamalla/"><img title="GeeksforGeeks Account" src="https://img.shields.io/badge/GeeksforGeeks-5c5c5c?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-    <a href="mailto:yeswanthrachamalla@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p> 
+* 🤖 AI Hiring Assistant System
+* 🎯 AI Event Planning Supervisor
+* 🏥 Insurance Claim Approval System
+* 📰 News Fact Checker
+* 💰 Investment Approval System
 
-  
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/yeswanth-reddy-rachamalla">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+
+<a href="https://leetcode.com/YeswanthReddy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YeswanthReddy1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/yeswanthrachamalla/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="mailto:yeswanthrachamalla@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+
+![](https://github-readme-stats.vercel.app/api?username=RachamallaYeswanthReddy\&show_icons=true\&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RachamallaYeswanthReddy\&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy\&layout=compact\&theme=github_dark)
+
 </div>
