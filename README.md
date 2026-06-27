@@ -1,6 +1,6 @@
 # Hi 👋 I'm Yeswanth Reddy Rachamalla
 
-### AI Engineer | Digital Specialist Engineer @ Infosys | Agentic AI & LangGraph Enthusiast
+### AI Engineer | Digital Specialist Engineer @ Infosys | Agentic AI 
 
 I'm a Software Engineer passionate about building intelligent AI systems using **LLMs**, **LangGraph**, **LangChain**, and **Generative AI**. I enjoy designing multi-agent workflows, AI automation, and enterprise AI applications while continuously exploring emerging AI technologies.
 
