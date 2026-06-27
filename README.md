@@ -6,7 +6,6 @@
 
 I'm a Software Engineer passionate about building intelligent AI systems using **LLMs**, **LangGraph**, **LangChain**, and **Generative AI**. I enjoy designing multi-agent workflows, AI automation, and enterprise AI applications while continuously exploring emerging AI technologies.
 
-* 💼 Digital Specialist Engineer at **Infosys**
 * 🌱 Currently learning **Agentic AI**, **LangGraph**, **Multi-Agent Systems**, and **MCP**
 * 🤖 Interested in **Generative AI**, **AI Agents**, **LLM Applications**, and **Workflow Automation**
 * 🖥️ Portfolio: https://yeswanthreddyrachamalla.netlify.app/
