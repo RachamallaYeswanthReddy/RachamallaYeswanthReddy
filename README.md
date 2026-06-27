@@ -101,10 +101,6 @@ I'm a Software Engineer passionate about building intelligent AI systems using *
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RachamallaYeswanthReddy\&show_icons=true\&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RachamallaYeswanthReddy\&theme=github-dark)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RachamallaYeswanthReddy\&layout=compact\&theme=github_dark)
 
 </div>
