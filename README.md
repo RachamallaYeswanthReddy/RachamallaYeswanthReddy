@@ -64,11 +64,42 @@ I'm a Software Engineer passionate about building intelligent AI systems using *
 
 ## 📂 Featured Projects
 
-* 🤖 AI Hiring Assistant System
-* 🎯 AI Event Planning Supervisor
-* 🏥 Insurance Claim Approval System
-* 📰 News Fact Checker
-* 💰 Investment Approval System
+### 🤖 AI & Agentic Systems
+
+* 🤖 **AI Hiring Assistant**
+  Multi-agent hiring workflow using LangGraph for resume analysis, skill evaluation, HR review, interview question generation, and hiring recommendations.
+
+* 🎯 **AI Event Planning Supervisor**
+  Supervisor-based multi-agent system that coordinates venue selection, catering, budget planning, and human approval.
+
+* 🏥 **Insurance Claim Approval System**
+  Intelligent insurance workflow with claim classification, evidence retrieval, risk scoring, conditional routing, checkpointing, and human-in-the-loop review.
+
+* 📰 **News Fact Checker**
+  AI-powered fact-checking assistant using LLMs and external information retrieval to verify news claims.
+
+---
+
+### 🌐 Full Stack & Backend
+
+* 🎓 **Student Management System**
+  Full-stack CRUD application built with Angular, Spring Boot, MongoDB, and REST APIs.
+
+* 📊 **Google Sheets ↔ MongoDB Synchronization**
+  Real-time synchronization between Google Sheets and MongoDB using Apps Script, Spring Boot, and REST APIs.
+
+---
+
+### 📈 Machine Learning & Deep Learning
+
+* 🧠 **Fertilizer Recommendation System**
+  Machine learning application that recommends fertilizers based on soil and crop conditions.
+
+* 🐅 **Wild vs Domestic Animal Classification**
+  Deep learning project using transfer learning models such as ResNet50, VGG16, MobileNetV2, and EfficientNet.
+
+* 🏠 **House Price Prediction**
+  Regression model for predicting housing prices using Decision Tree Regression and feature engineering.
 
 ---
 
